@@ -1,3 +1,2 @@
 # CharRoom
-LAN chat room.
-4-28c is client;4-28s is server.
+c++和MFC实现的一个聊天室，包含服务器端和客户端
